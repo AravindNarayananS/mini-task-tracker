@@ -1,3 +1,6 @@
+# mini-task-tracker
+React Mini Task Tracker with TypeScript, localStorage persistence, filtering, editing, and testing
+
 # 📝 Mini Task Tracker — Organize Your Day
 
 A modern task management app built with **React + TypeScript + Tailwind CSS**, designed as a take-home challenge implementation with clean architecture, persistence, and strong UX focus.
