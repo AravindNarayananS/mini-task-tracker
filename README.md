@@ -113,6 +113,24 @@ The tests are written to follow **user-centric testing principles**:
 This makes the test suite more reliable and closer to real-world usage.
 
 ---
+## 🚀 Setup Instructions
+
+### 1. Clone the repository
+git clone https://github.com/AravindNarayananS/mini-task-tracker.git
+
+### 2. Navigate to the project folder
+cd mini-task-tracker
+
+### 3. Install dependencies
+npm install
+
+### 4. Start the development server
+npm run dev
+
+The app will run at:
+http://localhost:5173
+
+---
 
 ### ▶️ Run Tests
 
