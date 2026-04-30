@@ -56,33 +56,6 @@ It demonstrates practical React patterns including hooks, state management, comp
 
 ---
 
-## 📁 Project Structure
-src/
-├── components/
-│ ├── task/
-│ │ ├── TaskInput.tsx
-│ │ ├── TaskList.tsx
-│ │ ├── Filter.tsx
-│ │
-│ ├── UI/
-│ │ └── ProgressBar.tsx
-│
-├── hooks/
-│ └── useLocalStorage.ts
-│
-├── types/
-│ └── Task.ts
-│
-├── Test/
-│ └── App.test.tsx
-│
-├── App.tsx
-├── main.tsx
-└── index.css
-
-
----
-
 ## 🧠 Key Design Decisions
 
 ### 1. Component Modularity
